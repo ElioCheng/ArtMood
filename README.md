@@ -1,3 +1,1 @@
-# backend
-
-## This is the backend for hackathon
+# super artistic hackathon
