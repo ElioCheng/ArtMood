@@ -1,1 +1,3 @@
-## a realtime face recognition app using face-api
+# backend
+
+## This is the backend for hackathon
